@@ -106,7 +106,7 @@
         themeLink: null,
         fbLink: null,
         youtubeLink: null,
-        website: http://powergaming.pw/,
+        website: null,
         intervalMessages: [],
         messageInterval: 5,
         songstats: false,
